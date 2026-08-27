@@ -1,0 +1,6 @@
+langchain-ollama
+langchain-community
+langchain-core
+langchain-classic
+youtube-transcript-api
+faiss-cpu
